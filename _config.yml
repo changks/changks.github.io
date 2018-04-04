@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kuo-Hsien Chang"
 title_separator          : "-"
 name                     : &name "Passionate Agronomist & Proud Geek"
-description              : &description "personal description"
+description              : &description "Passionate Agronomist & Proud Geek"
 url                      : https://changks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changks/changks.github.io"
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "changks888@gmail.com"
+  youtube          : "https://www.youtube.com/c/Daogrow"
   wikipedia        :
 
 
