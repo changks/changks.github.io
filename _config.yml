@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &changks888
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Passionate Agronomist & Proud Geek"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "To accomplish great things, we must not only act but also dream; not only plan but also believe."
+  location         : "Guelph, ON"
+  employer         : "University of Guelph"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "changks888@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "changks888"
   vine             :
   weibo            :
   xing             :
