@@ -42,17 +42,19 @@ A day of my life
 
 ![A look at the demanding schedule of my day](/images/DayofLife.png)
 
-A look at the demanding schedule of my day, that stays in focus, effective communication, and largely avoids entertainments.
+I like to do great things -- dream, believe, plan, and act. Take a look at the demanding schedule of my day, that stays in focus, effective communication, and largely avoids entertainments.
 
-I like to do great things -- dream, believe, plan, and act.
+Start my day
+------
+My daily life is pretty jam-packed. I kicks off my day bright and early, rising at about 7 a.m. In average, I usually got six hours of shut-eye. My most important daily habit in the morning -- Wake Up Yoga and Coffee. I launch into a blistering schedule that breaks my time into a series of 25-minute slots. Kick-off meetings and brainstorming sessions are particularly important for project management.
 
-My daily life is pretty jam-packed. I kicks off my day bright and early, rising at about 7 a.m. In average, I usually got six hours of shut-eye. My most important daily habit in the morning -- Wake Up Yoga and Coffee. I launch into a blistering schedule that breaks my time into a series of 25-minute slots. 
+Work
+------
+I work 85 to 100 hours a week, and I estimate that 80% of my time at work is spent on programming, engineering and system validation. I generally spend a full workweek at University of Guelph, wolfing down lunch in five minutes, and skipping phone calls and entertainments for productivity's sake.
 
-I work 85 to 100 hours a week, and I estimate that 80% of my time at work is spent on programming, engineering and system validation. Kick-off meetings and brainstorming sessions are particularly important for project management. I generally spend a full workweek at University of Guelph, wolfing down lunch in five minutes, and skipping phone calls and entertainments for productivity's sake.
-
-On the weekends, I spends time with my three children to work with them on their projects. I can be with them and still be working at the same time.
-
-To stay in shape, I usually hits the gym one hour everyday and kids can also enjoy their freetime in the playroom.
+Family
+------
+On the weekends, I spends time with my three children to work with them on their projects. I can be with them and still be working at the same time. To stay in shape, I usually hits the gym one hour everyday and kids can also enjoy their freetime in the playroom.
 
 
 For more info
