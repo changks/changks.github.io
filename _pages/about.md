@@ -39,6 +39,9 @@ For site content, there is one markdown file for each type of content, which are
 
 A day of my life
 ======
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/DayofLife.png)
 As a research scientist, on a day-to-day basis I engage in problem identification and solving, using rigorous scientific methodology to analyze data, draw conclusions and communicate results. 
 
 The range of professional environments I have worked in, including research institution, government, nonprofit organization, and consulting company – as well as a hi-tech farming company I created – has made me adept and comfortable interacting with anyone at any level in an organization. What I find most engaging is to “meet people where they are at”; that is, to understand each individual’s perspective and their stake, access their abilities and goals, and develop strategies to meet our common goal.
