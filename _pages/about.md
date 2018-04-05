@@ -12,9 +12,9 @@ My research focuses on the optimization of precision and intensive cropping syst
 
 A data-driven personal applications
 ======
-1. *Computer simulation*: improve and validate meteorological models, long-range transport models, biogeochemical and dynamic vegetation models to study land-atmosphere interactions for climate variability.
-1. *Statistical analysis*: quantify greenhouse gases/carbon cycles and biophysical changes by processing large scientific datasets.
-1. *Meteorological and environmental monitoring*: design embedded sensor network and robotics to detect plant stress physiology and changing environment.
+1. **Computer simulation**: improve and validate meteorological models, long-range transport models, biogeochemical and dynamic vegetation models to study land-atmosphere interactions for climate variability.
+1. ****Statistical analysis****: quantify greenhouse gases/carbon cycles and biophysical changes by processing large scientific datasets.
+1. ***Meteorological and environmental monitoring***: design embedded sensor network and robotics to detect plant stress physiology and changing environment.
 1. **Precision Agriculture**: integrate software, hardware and machinary as a user-friendly package to increase profits and crop productivity.
 
 Getting started
