@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Atmospheric Sciences, Chinese Culture University, 2001
-* M.S. in Atmospheric Physics, National Central University, 2003
-* Ph.D in Land Resource Sciences, University of Guelph & Colorado State University, 2011 (expected)
+* B.S. in Github, Github University, 2012
+* M.S. in Jekyll, Github University, 2014
+* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
 Work experience
 ======
