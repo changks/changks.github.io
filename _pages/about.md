@@ -40,8 +40,28 @@ For site content, there is one markdown file for each type of content, which are
 A day of my life
 ======
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/DayofLife.png)
+A look at the demanding schedule of my day, that stays in focus, effective communication, and largely avoids entertainments.
+![A look at the demanding schedule of my day](/images/DayofLife.png)
+
+
+I like to do greats. My daily life is pretty jam-packed.
+
+I kicks off my day bright and early, rising at about 7 a.m. In average, I usually got six hours of shut-eye. My most important daily habit in the morning -- Wake Up Yoga and Coffee.
+
+I launch into a blistering schedule that breaks my time into a series of 30-minute slots. 
+
+I work 85 to 100 hours a week, and I estimate that 80% of my time at work is spent on programming, engineering and system validation.
+
+
+I generally spend a full workweek at University of Guelph, wolfing down lunch in five minutes, and skipping phone calls and entertainments for productivity's sake.
+
+
+
+The Tesla and SpaceX founder generally spends a full workweek at each of his two companies, wolfing down lunch in five minutes and skipping phone calls for productivity's sake.
+
+
+
+
 As a research scientist, on a day-to-day basis I engage in problem identification and solving, using rigorous scientific methodology to analyze data, draw conclusions and communicate results. 
 
 The range of professional environments I have worked in, including research institution, government, nonprofit organization, and consulting company – as well as a hi-tech farming company I created – has made me adept and comfortable interacting with anyone at any level in an organization. What I find most engaging is to “meet people where they are at”; that is, to understand each individual’s perspective and their stake, access their abilities and goals, and develop strategies to meet our common goal.
