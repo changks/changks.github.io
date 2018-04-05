@@ -10,7 +10,7 @@ redirect_from:
 
 My research focuses on the optimization of precision and intensive cropping system. I also make use of computer models, data mining, cloud computing to interpret field measurements. I innovate robotics and embedded sensor network to monitor the atmosphere and biophysical changes.
 
-A data-driven personal applications
+Data-driven agronomic applications
 ======
 1. **Computer simulation**: improve and validate meteorological models, long-range transport models, biogeochemical and dynamic vegetation models to study land-atmosphere interactions for climate variability.
 1. ****Statistical analysis****: quantify greenhouse gases/carbon cycles and biophysical changes by processing large scientific datasets.
