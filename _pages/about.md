@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the optimization of precision and intensive cropping system. I also make use of computer models, data mining, cloud computing to interpret field measurements. I innovate robotics and embedded sensor network to monitor the atmosphere and biophysical changes.
+My research focuses on the optimization of precision and intensive cropping system. I also make use of computer models, data mining, and cloud computing to interpret field measurements. I innovate robotics and embedded sensor network to monitor the atmosphere and biophysical changes.
 
 Data-driven agronomic applications
 ======
 1. **Computer simulation**: improve and validate meteorological models, long-range transport models, biogeochemical and dynamic vegetation models to study land-atmosphere interactions for climate variability.
-1. ****Statistical analysis****: quantify greenhouse gases/carbon cycles and biophysical changes by processing large scientific datasets.
-1. ***Meteorological and environmental monitoring***: design embedded sensor network and robotics to detect plant stress physiology and changing environment.
+1. **Statistical analysis**: quantify greenhouse gases/carbon cycles and biophysical changes by processing large scientific datasets.
+1. **Meteorological and environmental monitoring**: design embedded sensor network and robotics to detect plant stress physiology and changing environment.
 1. **Precision Agriculture**: integrate software, hardware and machinary as a user-friendly package to increase profits and crop productivity.
+
+As a scientist, I make use of tools to study past climatic variability and real-time weather condition and their impacts on crop/plant physiology to gain clues that will help growers and industry partners plan for future climate change and precision automation. I publish major scientific findings, secure fundings to engage and grow my researches with others colleagues, communities and industries.
 
 Getting started
 ======
