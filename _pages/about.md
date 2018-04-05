@@ -50,5 +50,6 @@ I like to do great things -- dream, believe, plan, and act. Take a look at the d
 ------
 
 For more info
-------
+======
+
 More info about developing applications for precision agriculture can be found in [Blog Posts](https://changks.github.io/year-archive/) and in [Researches](https://changks.github.io/year-archive/).
