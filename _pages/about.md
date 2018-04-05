@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to farming of the future : a hi-tech, cost-effective system of growing food sustainably and precisely for the masses."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
