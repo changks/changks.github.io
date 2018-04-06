@@ -3,7 +3,7 @@ title: "Water Restriction Impact on Surface Hardness and Soil Volumetric Water C
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'g.'
-date: 2017
+date: 2017-10-01
 venue: 'International Turfgrass Society Research Journal'
 paperurl: 'http://changks.github.io/files/Water_restriction_hardness.pdf'
 citation: 'K. Chang et al. (2017). &quot;Water Restriction Impact on Surface Hardness and Soil Volumetric Water Content on Recreational Sports Fields.&quot; <i>International Turfgrass Society Research Journal</i>. 13:1–5.'
