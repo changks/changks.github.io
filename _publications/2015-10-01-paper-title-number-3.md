@@ -3,8 +3,6 @@ title: "Water Restriction Impact on Surface Hardness and Soil Volumetric Water C
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'I developed and tested some sensors for quantifying plant healthy and canopy structure. Water restriction was issued during the summer of 2016 in Guelph, so I used that chance to see how soil water and irrigation influence the field.'
-
-and The maintenance of natural turfgrass sports fields is a player safety issue. Irrigation of sports fields during times of limited precipitation is needed to preserve the cushioning effect of green turfgrass cover and minimize surface hardness. This would serve to decrease the risk of player injury, as well as to prevent plant death and the inherent costs of replanting.'
 date: 2017-10-01
 venue: 'International Turfgrass Society Research Journal'
 paperurl: 'doi: 10.2134/itsrj2016.09.0832'
