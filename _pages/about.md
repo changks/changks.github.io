@@ -22,19 +22,20 @@ As a scientist, I make use of tools to study past climatic variability and real-
 1. **Meteorological and environmental monitoring**: design embedded sensor network and robotics to detect plant stress physiology and changing environment.
 1. **Precision Agriculture**: integrate software, hardware and machinary as a user-friendly package to increase profits and crop productivity.
 
-I publish major scientific findings, secure fundings to engage and grow my researches with others colleagues, communities and industries.
+I publish major scientific findings, secure fundings to engage and grow my researches with others colleagues, communities and industries. I also work with university intellectual property centre and industry partners to file patents.
 
 
 ------
 
-Three areas of focus -- engaging my research with industries
+Three areas of focus -- engaging with industries
 ======
 
 I love my job in academia, innovating creative and advanced research with unlimited freedom. As a entrepreneur in the university, I follow my passion and think how to contribute my work to industries. From my experiences of collaborating with industry partners, I nail down three areas of focus to examine my industrial engagement.
 
-1. **Profitability**: The main configuration file for the site is in the base directory in 
-1. **Efficiency**: The main configuration file for the site is in the base directory in 
-1. **Sustainability**: The main configuration file for the site is in the base directory in 
+1. **Profitability**: I establish a strong communication linkage with the business stakeholders (face-to-face meetings on a regular basis, develop an overall communication routine to supplement the meetings, respond promptly to email/phone requests. I have a good understanding of the business and the project’s strategic context. I clearly indicate (1) *the pain in the market*, (2) *size of pain*, (3) *proposed solution*, (4) *alternatives and similar products*, and (5) *risk assessment*. 
+1. **Efficiency**: I conduct leading-edge research to discover tomorrow’s agriculture today. I have a "big picture" to reach the determined goals - what can the company achieve and how can I help them do this? I present well and impute what I want to apply innovations in grower's field. I ensure that innovations can (1) *capture farm data without additional workload*, (2) *increase profits with small investments*, and (3) *seamlessly integrate into their facilities*.
+1. **Sustainability**: I respect the industrial collaboration and prepare to invest in long-term relationships. The innovations and services can provide industrial partners to manage social, environmental, and economic aspects of grower's farm. I ensure that innovations features (1) *both immediate/future decisions on best menagement practices*, (2) *the easiest/work-well/reliable solution*, and (3) *IP-protected/recurring profits*.
+
 
 ------
 
@@ -55,4 +56,4 @@ I like to do great things -- dream, believe, plan, and act. Take a look at the d
 For more info
 ======
 
-More info about developing applications for precision agriculture can be found in [Blog Posts](https://changks.github.io/year-archive/) and in [Researches](https://changks.github.io/year-archive/).
+More info about developing applications for precision agriculture can be found in [Blog Posts](https://changks.github.io/year-archive/) and in [Research](https://changks.github.io/research/).
