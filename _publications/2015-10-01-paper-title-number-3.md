@@ -2,7 +2,7 @@
 title: "Water Restriction Impact on Surface Hardness and Soil Volumetric Water Content on Recreational Sports Fields"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'I developed and tested some sensors for quantifying plant healthy and canopy structure. Water restriction was issued during the summer of 2016 in Guelph, so I used that chance to see how soil water and irrigation influence the field.'
+excerpt: 'I developed and tested some sensors for quantifying plant healthy and canopy structure. Water restriction was issued during the summer of 2016 in Guelph, so I used that chance to see how soil water and irrigation influence the field using tools I developed.'
 date: 2017-10-01
 venue: 'International Turfgrass Society Research Journal'
 paperurl: 'doi: 10.2134/itsrj2016.09.0832'
