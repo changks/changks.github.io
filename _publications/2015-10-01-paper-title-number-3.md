@@ -1,15 +1,18 @@
 ---
-title: "Paper Title ABC"
+title: "Water Restriction Impact on Surface Hardness and Soil Volumetric Water Content on Recreational Sports Fields"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about cropping. Real-time measurment is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://changks.github.io/files/Cropping.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This relationship between soil VWC on surface hardness means that player safety on natural turfgrass sports fields is potentially vulnerable to environmental conditions. Water restrictions in Guelph, ON (City of Guelph, 2016), prohibited all nonessential water use on all recreational fields including two soccer fields at the Guelph Turfgrass Institute (GTI). These fields provided a unique opportunity to study the effects of drought on soil VWC and surface hardness of an actively used playing field and determine whether field conditions to become hard enough so as to be considered an injury risk for players during prolonged drying.'
+date: 2017
+venue: 'International Turfgrass Society Research Journal'
+paperurl: 'http://changks.github.io/files/Water_restriction_hardness.pdf'
+citation: 'K. Chang et al. (2017). &quot;Water Restriction Impact on Surface Hardness and Soil Volumetric Water Content on Recreational Sports Fields.&quot; <i>International Turfgrass Society Research Journal</i>. 13:1–5.'
 ---
-This paper is about the asdddd. The number xxxxxxxxx is left for future work.
+This relationship between soil VWC on surface hardness means that player safety on natural turfgrass sports fields is potentially vulnerable to environmental conditions. Water restrictions in Guelph, ON (City of Guelph, 2016), prohibited all nonessential water use on all recreational fields including two soccer fields at the Guelph Turfgrass Institute (GTI). These fields provided a unique opportunity to study the effects of drought on soil VWC and surface hardness of an actively used playing field and determine whether field conditions to become hard enough so as to be considered an injury risk for players during prolonged drying.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://changks.github.io/files/Water_restriction_hardness.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: K. Chang et al. (2017). &quot;Water Restriction Impact on Surface Hardness and Soil Volumetric Water Content on Recreational Sports Fields.&quot; <i>International Turfgrass Society Research Journal</i>. 13:1–5.
+
+
+
