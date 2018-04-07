@@ -3,7 +3,7 @@ title: "Simulating impacts of water stress on woody biomass in the southernborea
 collection: publications
 permalink: /publication/2014-07-24-Water_stress_woody_biomass
 excerpt: 'I particularly interested in climate change regarding elevated ambient CO$_2$ and drought that may consequently affect the growth of crops. In this study, plant physiology, soil carbon, photosynthesis, and soil enzyme activities were programmed to investigate the impacts of elevated CO_2 and drought stress on biomass. I gained a deep understanding how water stress regulates the plant growth and how to characterize the effects of water stress in a relatively complicated expression in the dynamic vegetation model.'
-date: 2010-10-01
+date: 2014-10-01
 venue: 'Agricultural and Forest Meteorology'
 paperurl: 'https://doi.org/10.1016/j.agrformet.2014.07.013'
 citation: 'K. Chang et al. (2014). &quot;Simulating impacts of water stress on woody biomass in the southernboreal region of western Canada using a dynamic vegetation model.&quot; <i>Agricultural and Forest Meteorology,</i>. 198-199:142–154.'
