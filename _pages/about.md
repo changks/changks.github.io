@@ -49,7 +49,7 @@ I like to do great things -- dream, believe, plan, and act. Take a look at the d
 
 1. **Start my day**: my daily life is pretty jam-packed. I kick off my day bright and early, rising at about 7 a.m. In average, I usually got six hours of shut-eye. My most important daily habit in the morning -- Wake Up Yoga and Coffee. I launch into a blistering schedule that breaks my time into a series of 25-minute slots. Kick-off meetings and brainstorming sessions are particularly important for project management.
 1. **Work for future**: I work 85 to 100 hours a week, and I estimate that 80% of my time at work is spent on programming, engineering and system validation. I generally spend a full workweek at University of Guelph, wolfing down lunch in five minutes, and skipping phone calls and entertainments for productivity's sake.
-1. **Time with family**: on the weekends, I spends time with my three children to work with them on their projects. I can be with them and still be working at the same time. To stay in shape, I usually hits the gym one hour everyday and kids can also enjoy their freetime in the playroom.
+1. **Time with family**: on the weekends, I spend time with my three children to work with them on their projects. I can be with them and still be working at the same time. To stay in shape, I usually hits the gym one hour everyday and kids can also enjoy their freetime in the playroom.
 
 ------
 
