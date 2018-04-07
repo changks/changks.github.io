@@ -1,6 +1,6 @@
 ---
-title: "Research item number 2"
-excerpt: "Short description of research item number 2 <br/><img src='/images/500x300.png'>"
+title: "Best management practice in cropping system"
+excerpt: "Short description of research item number 2 <br/><img src='/images/cropping_simulation_flowchat_500x300.png'>"
 collection: research
 ---
 
