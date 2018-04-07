@@ -4,4 +4,5 @@ excerpt: "I use air pollution models to see the air movement, trajectory, and dr
 collection: research
 ---
 
+<br/><img src='/images/Chernobyl_120h_deposition.png'>
 My M.Sc. work published in 2002 was highlighted in newspapers and talk shows, especially during the Fukushima Daiichi nuclear disaster in 2011. My modeling work related to air quality includes the NOAA-HYSPLIT and AERMOD atmospheric dispersion modeling systems.  I participated in Colorado Concentrated Animal Feeding Operation Air Quality Study (CAFO) and designed a Monte Carlo approach for the dispersion model to simulate greenhouse gas emissions from a dairy farm at a fine spatial scale. I also had an opportunity to work with a consulting company to conduct the environment assessment for the tallest building (Taipei 101) in Taiwan, monitoring/simulating wind field and particle dispersion. 
