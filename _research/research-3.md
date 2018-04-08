@@ -5,4 +5,7 @@ collection: research
 ---
 
 <br/><img src='/images/C_SOC_pool.png'>
+<br/><img src='/images/crop_phenology_new_scheme.png'>
+
+
 In 2008 – 2011, I participated in several ecological studies and modeling works for a better understanding of terrestrial ecosystems. I involved in the Elora Cropping Research Station, Konza Prairie LTER Station, Air Emission from Dairy CAFO, DOE-USDA Carbon Project, Yellowstone National Park Biodiversity Project and Rocky Mountain Watershed Project. From participating these projects, I developed my interdisciplinary ability and strengthened my team work capability and learned how to integrate modeling theories with field measurements. I have learned to illustrate different parts of plants function in the format of mathematics.  For example, I can use a matrix of equations and algorithms to explain how plants develop from seeds, and how they grow as well as many aspects of plant life, including nutrition, movement, and growth. In order to fully understand the plant physiology in the model, I studied intensively the process of photosynthesis and stomatal conductance in different plant functional types to predict plant-atmosphere interactions in a changing climate and to integrate new knowledge in physiology and ecological theory. These fundamental knowledges of formulating plant physiology in the biogeochemical and agricultural models have played an important role in communicating scientific results and creating other projects in precision agriculture.
