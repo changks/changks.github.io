@@ -1,5 +1,5 @@
 ---
-title: "Cropping sytem in greenhouse & controlled environment"
+title: "Precision agriculture, big data analysis & cloud computing"
 excerpt: "In my Ph.D. studies, I worked on various crop models that integrate the understanding of crop physiology gathered from many years of laboratory and field experimentations. Therefore, results provided an effective means for investigating crop responses to climate change and alternative management scenarios. I have published my results to the peer-reviewed journals in Agronomy Journal and Soil Science Society American Journal. These publications demonstrated that my skill set in the application of crop physiology to climate change impact and adaptation research through the use of physiology-based crop models. Agriculture have to contribute to the mitigation of climate change, with crop models playing a role. <br/><img src='/images/GH_PA_heatmap.png'>"
 collection: research
 ---
