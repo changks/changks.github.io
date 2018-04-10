@@ -11,6 +11,7 @@ I innovated new monitoring and automation systems for precision and intensive cr
 
 1. Load cell based micro-lysimeter array to measure real-time evapotranspiration in growth chambers.
 1. Dynamically controlled multiple spectrum LED panels.
+1. Low-cost phenological camera and image-processing system to reflect the condition of plant growth for automation. 
 1. Portable tensile strength and traction tester to monitor the stability of field quality and biomass structure.
 1. Micro-scale auto spray system for hydroponics and horticulture.
 1. Automatic drip irrigation to multiple plants with one self-priming pump and multiple valves.
