@@ -5,7 +5,11 @@ collection: research
 ---
 <br/><img src='/images/IoT_DecisionMaking.png'>
 
-My interdisciplinary experiences help me a lot to deliver outstanding and innovative IT solutions to create an interface between study objects and hardware/software. I was able to provide a quick and cost-effective solution to a data import problem or an intricate workflow. Some research-grade agricultural instrumentations and IoT environmental monitoring systems I designed and validated in recent years:
+I noticed that the pressing issue in providing accurate recommendations for making decision for farms. The solution relies on (1) providing information at a high temporal/spatial resolution and (2) obtaining site-specific information at a low cost. Thus, I developed cost-effective sensors to obtain data in the field and in controlled environment. 
+
+My interdisciplinary experiences help me a lot to deliver outstanding and innovative IT solutions to create an interface between study objects and hardware/software. I was able to provide a quick and cost-effective solution to a data import problem or an intricate workflow.
+
+Some research-grade agricultural instrumentations and IoT environmental monitoring systems I designed and validated in recent years:
 
 1. Micro-scale weather station and embedded sensor network based on cellular towers for real-time atmospheric and environmental monitoring.
 1. Environmental monitoring system based on remote sensing technologies.
