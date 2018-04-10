@@ -7,7 +7,7 @@ collection: research
 ---
 
 <br/><img src='/images/Cropping_LCA.png'>
-I innovated new monitoring and automation systems for precision and intensive cropping systems.
+I innovated new monitoring and automation systems for precision and intensive cropping systems. Specifically, I have designed and validated the following projects for cropping sytem in greenhouse & controlled environment.
 
 1. Load cell based micro-lysimeter array to measure real-time evapotranspiration in growth chambers.
 1. Portable turf tensile strength and traction tester to monitor the stability of athletic field turfgrass and biomass structure.
