@@ -6,7 +6,6 @@ excerpt: "For my PDF work at University of Toronto, I particularly interested in
 collection: research
 ---
 <br/><img src='/images/climate_deposition_on_forest.png'>
-<br/><img src='/images/modeling_drought_biomass4266x3200.png'>
 <br/><img src='/images/PFT_Frac_A2.png'>
 In 2011 – 2014, I extended my research domain from cropping system to meteorological effects (i.e., drought) on plant physiology.
 
